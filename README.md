@@ -5,7 +5,7 @@ telegram botto ;D
 ### manual
 
 1. install python
-2. install requirements, using `pip install -r requirements.txt`
+2. install requirements using `pip install -r requirements.txt`
 3. change config values inside `telegram.py` (TOKEN, ID, LOGPATH)
 4. run `python3 telegram.py`
 
