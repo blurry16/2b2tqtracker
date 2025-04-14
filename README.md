@@ -1,5 +1,3 @@
-<div align="center">
-
 # 2b2tqtracker
 
 telegram botto ;D
@@ -17,5 +15,3 @@ telegram botto ;D
 
 - id is telegram account id that can be obtained using [t.me/userinfobot]() or 3rd party clients :0
 - logpath is the path to your latest.log file in .minecraft/logs dir
-
-</div>
